@@ -1,2 +1,2 @@
 # Forfun
-for learning purpose
+for learning purpose. So let's start with git!!
